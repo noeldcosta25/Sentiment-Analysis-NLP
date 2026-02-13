@@ -4,6 +4,5 @@ This project focuses on analyzing the sentiment of textual data using Natural La
 
 The system performs text preprocessing, tokenization, and model inference to classify user input into positive or negative sentiment in real time. This project demonstrates practical experience in NLP, model comparison, and selecting an optimal architecture based on performance metrics.
 
-## Note
-
+**Note**
 The trained BERT model weights are not uploaded due to GitHub file size limitations. You can retrain the model using the provided notebook.
